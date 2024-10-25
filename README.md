@@ -19,5 +19,5 @@ CSS: Utilized for visual design and layout.
 
 Responsive Design: Media queries were applied to ensure an optimal viewing experience on various devices.
 
-
+# Preview
 ![](/NetflixClone.gif)
